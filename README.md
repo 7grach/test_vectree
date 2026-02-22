@@ -1,1 +1,1 @@
-Hello terminal commands!
+Привет Мир!
